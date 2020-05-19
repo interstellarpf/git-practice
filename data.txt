@@ -1,0 +1,3 @@
+Name: Leandro
+Age: 30
+Favorite color:  Red
